@@ -1,0 +1,156 @@
+.menu{
+    background-color: #2f0030;
+}
+.nav-link{
+    color: white !important;
+}
+.brand-text{
+    color: #fc4d54 !important;
+}
+.cover{
+    height: 577px;
+}
+.row{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.hr{
+    height: 200px
+}
+
+.hr2{
+    height: 100px
+}
+.hr3{
+    height: 20px
+}
+.hr4{
+    height: 400px
+}
+
+.hr-feature{
+    height: 100px
+}
+
+.text-brand{
+    color: #fc4d54 !important;  
+    word-spacing: 0.1em;
+}
+
+
+img .bella:hover{
+    box-shadow: 12px 5px 10px 12px lightgrey;
+}
+
+
+.stripe{
+    background-color: #2f0030;
+    height: 80px;
+}
+
+.row h4{
+    color: white;
+    text-align: center;
+    margin: 0;
+    margin-top: 8%
+}
+
+a:hover{
+    color: #fc4d54;
+    
+    text-decoration: none
+    
+}
+
+
+
+.promise-1{
+    font-weight: 500
+}
+
+
+.social-cta{
+   color: #fc4d54
+}
+
+.brand-logo{
+    font-family: 'futura std light';
+}
+
+.feature .feature-cover{
+    background-image: linear-gradient(to right, #000000, #2f0030 );
+    height: 600px;
+}
+
+.row{
+    margin-right: 0px;
+    margin-left: 0px
+}
+
+.cta-edit{
+    background-color: #fc4d54;
+    
+}
+.cta-edit:hover{
+    background-color: #2f0030;
+    border: none;
+}
+
+
+.showcase-1 img{
+width: 200px;
+}
+
+.footer{
+    background-image: linear-gradient(to right, #000000, #2f0030 );
+    height: 300px;
+}
+
+.showcase-1-content h2{
+   font-size: 1.5em;
+   text-align: center;
+}
+
+h2 .showcase-style{
+    
+    color: #2f0030 !important;
+}
+h2 .special-1{
+    
+    color: #fc4d54 !important;
+    font-weight: 500;
+}
+
+.copyrights{
+    background-color: #000000;
+}
+
+.localize h4{
+color: #fc4d54;
+}
+
+.mobile-stripe{
+    background-color:white;
+}
+
+.mobile-stripe .promise-1{
+    color: #2f0030;
+}
+
+.mobile-stripe h4{
+    color: #fc4d54 ;
+}
+
+.smart-cover{
+    height: 50px !important;
+}
+
+@media(max-width:500px){
+    .feature-cover{
+        height: 800px !important;
+    }
+
+    .footer{
+        height: 450px !important;
+    }
+}
